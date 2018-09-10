@@ -38,4 +38,4 @@ def hangman(word):
         print("You lose!")
         print("It's the correct answer is {}".format(word))
 
-hangman("cat")
+hangman("dog")
